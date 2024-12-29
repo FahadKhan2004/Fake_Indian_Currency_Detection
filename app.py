@@ -77,7 +77,7 @@ st.text_area("Your Feedback")
 if st.button("Submit Feedback"):
     st.success("Successfully submitted your feedback! Thank you for your input.")
 
-# Footer
+# Footer mine
 st.markdown("""
     <footer style="text-align: center; color: white; padding: 20px;">
         &copy; 2024 Fake Currency Classification App
